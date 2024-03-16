@@ -566,3 +566,9 @@
   fuel_capacity: 50
   abrp_name:
   reg: VR7BAHNSBP.*
+- !CarModel
+  name: C4 Grand Picasso (2016)
+  battery_power: 0
+  fuel_capacity: 56
+  abrp_name:
+  reg: VF73ABHZMG.*
